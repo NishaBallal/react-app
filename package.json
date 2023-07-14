@@ -1,5 +1,6 @@
 {
-  "name": "http://NishaBallal.github.io/employee-react-app",
+  "homepage": "http://NishaBallal.github.io/employee-react-app",
+  "name": "employee-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
